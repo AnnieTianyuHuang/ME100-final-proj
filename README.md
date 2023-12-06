@@ -1,1 +1,1 @@
-# calhacks-project-pinnect
+# ME100 FINAL PROJECT - GREEN GUARD PRO
